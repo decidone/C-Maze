@@ -35,7 +35,7 @@ namespace Maze
             ArrayList arrTextLine = new ArrayList();
             ArrayList arrText = new ArrayList();
 
-            char[] delimiterChars = { ' ', ',', '.', ':', '\t' };
+            char[] delimiterChars = { ' ' };
 
 
             while (sLine != null)
